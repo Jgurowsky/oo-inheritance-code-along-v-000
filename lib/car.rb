@@ -5,5 +5,5 @@ class Car < Vehicle
   def go
     "VRRROOOOOOOOOOOOOOOOOOOOOOOM!!!!!"
   end
-  binding.pry
+  # binding.pry
 end
